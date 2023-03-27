@@ -13,9 +13,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=heyxmirko&icon=8&color=12)](https://visitcount.itsvg.in)
-
-  ## 💰 You can support me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/donate/?hosted_button_id=2EXJHCM24P5XS) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
