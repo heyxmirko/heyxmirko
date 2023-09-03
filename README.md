@@ -1,5 +1,6 @@
 # 💫 About Me:
 🌱 FREELANCER<br>🤝 OPEN FOR COMMISSIONS
+
 💼 Portfolio: https://www.gangoo.eu/
 or you can see most of my work and reviews here: https://linktr.ee/renzotom
 
