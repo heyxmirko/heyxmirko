@@ -1,3 +1,1 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=heyxmirko&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,css,bash,json,yaml,mysql,x86,arm,sass,markdown&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,wordpress,vercel,nodejs,apache,nginx&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
